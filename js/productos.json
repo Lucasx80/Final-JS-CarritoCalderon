@@ -1,0 +1,11 @@
+[
+    { "id": "Remeras", "nombre" : "Remera Estampada", "precio": 7500 }, 
+    { "id": "Remeras", "nombre" : "Remera Lisa", "precio": 6500 },
+    { "id": "Remeras", "nombre" : "Remera Selección","precio": 9000 },
+    { "id": "Pantalones", "nombre" : "Pantalón Negro", "precio": 15000 },
+    { "id": "Pantalones", "nombre" : "Pantalón Blanco", "precio": 13500 },
+    { "id": "Pantalones", "nombre" : "Pantalón Azul", "precio": 12800 },
+    { "id": "Zapatillas", "nombre" : "Zapatillas Urbanas", "precio" : 35000 },
+    { "id": "Zapatillas", "nombre" : "Zapatillas Deportivas", "precio": 45500 },
+    { "id": "Zapatillas", "nombre" : "Zapatillas de Running",  "precio": 50000 }
+]
